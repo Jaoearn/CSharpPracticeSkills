@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A+B--Problem", "A+B--Proble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading", "Grading\Grading.csproj", "{602D740A-F443-444D-9D44-B39517282634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{FCF766F7-3770-4CE2-A800-3CF4B9E54857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{602D740A-F443-444D-9D44-B39517282634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602D740A-F443-444D-9D44-B39517282634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602D740A-F443-444D-9D44-B39517282634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
