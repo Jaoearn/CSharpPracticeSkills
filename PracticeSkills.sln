@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A+B--Problem", "A+B--Problem\A+B--Problem.csproj", "{55E727A3-E0D0-45F5-91AD-E685EA3D3050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading", "Grading\Grading.csproj", "{602D740A-F443-444D-9D44-B39517282634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading", "Grading\Grading.csproj", "{602D740A-F443-444D-9D44-B39517282634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{FCF766F7-3770-4CE2-A800-3CF4B9E54857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMax", "MinMax\MinMax.csproj", "{FCF766F7-3770-4CE2-A800-3CF4B9E54857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageKMA", "AverageKMA\AverageKMA.csproj", "{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageKMA", "AverageKMA\AverageKMA.csproj", "{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{04906399-F810-4DF2-9B79-8F2D626378C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04906399-F810-4DF2-9B79-8F2D626378C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04906399-F810-4DF2-9B79-8F2D626378C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04906399-F810-4DF2-9B79-8F2D626378C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04906399-F810-4DF2-9B79-8F2D626378C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
