@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading", "Grading\Grading.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{FCF766F7-3770-4CE2-A800-3CF4B9E54857}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageKMA", "AverageKMA\AverageKMA.csproj", "{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF766F7-3770-4CE2-A800-3CF4B9E54857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6716FF1E-9784-4FF4-B18D-378B81FFCFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
